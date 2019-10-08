@@ -27,7 +27,7 @@
 							</p>
 						</div>
 
-						<form class="formregis" style="background-color: #EEEEEE; border-radius: 10px;" method="post" action="controller/index.php">
+						<form class="formregis" style="background-color: #EEE; border-radius: 10px;" method="post" action="controller/index.php">
 							<div class="form-group" style="margin-bottom: 0px;">
 								<label>No.KTP:</label>
 								<input type="text" class="form-control" id="noktp" name="ktp" required>
